@@ -1,4 +1,4 @@
 @echo off
 
-set SourceFile=".\Source Files\TextEditor_v1.0.py"
+set SourceFile=".\Source Files\TextEditor_v1.0.pyc"
 python %SourceFile%
