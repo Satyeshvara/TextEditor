@@ -142,7 +142,7 @@ class TextEditor:
             self.TotalCharacter.pack(side="right", padx=10, pady=5)
 
     def Check_for_Updates(self):
-        webbrowser.open("https://www.github.com/satishkumarsingh2024/TextEditor/")
+        webbrowser.open("https://www.github.com/satishkumarsingh2024/TextEditor")
 
     def About(self):
         messagebox.showinfo("About", "Text Editor (v1.0)\nDeveloped by Satish Kumar Singh")
